@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" width="800" height="600" font-family="Helvetica, Arial, sans-serif" font-size="6.5">
+  <title>Right triangle with labelled angles and sides</title>
+  <rect width="200" height="150" fill="#ffffff"/>
+  <polygon points="38,118 168,118 38,34" fill="#eef4fb" stroke="#1d4f91" stroke-width="0.45" stroke-linejoin="round"/>
+  <polyline points="38,109 47,109 47,118" fill="none" stroke="#1d4f91" stroke-width="0.35"/>
+  <path d="M146,118 A22,22 0 0 0 149.5,106" fill="none" stroke="#1d4f91" stroke-width="0.35"/>
+  <path d="M38,52 A18,18 0 0 0 53.1,43.8" fill="none" stroke="#1d4f91" stroke-width="0.35"/>
+  <text x="29" y="126" text-anchor="middle" font-weight="700">A</text>
+  <text x="176" y="126" text-anchor="middle" font-weight="700">B</text>
+  <text x="29" y="31" text-anchor="middle" font-weight="700">C</text>
+  <text x="55" y="107" fill="#333">90°</text>
+  <text x="120" y="112" fill="#333">33°</text>
+  <text x="42" y="63" fill="#333">57°</text>
+  <text x="103" y="130" text-anchor="middle">adjacent</text>
+  <text x="34" y="78" text-anchor="end">opposite</text>
+  <text x="108" y="66" text-anchor="middle" transform="rotate(32.9 108 66)">hypotenuse</text>
+</svg>
